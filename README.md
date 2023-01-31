@@ -25,9 +25,9 @@ This web app is imagined as app used in libraries by both users and librarians. 
 ## Instalation and usage
 
 ### Database
--postgreSQL (v 15.0)
--To use postgreSQL, make sure you install it, setup a database and then add your db credentials(database, username and password) to the .env.example file and rename it to .env
--To use something different, open up config/Database.php and change the default driver.
+- postgreSQL (v 15.0)
+- To use postgreSQL, make sure you install it, setup a database and then add your db credentials(database, username and password) to the .env.example file and rename it to .env
+- To use something different, open up config/Database.php and change the default driver.
 
 ### Migrations
 To create all the nessesary tables and columns, run the following
@@ -41,12 +41,15 @@ To add the dummy books, authors, copies with three users, run the following
 php artisan db:seed
 ```
 Credentials for dummy users:
+
 Admin: 
 - email: librarian@test.com
 - pass: 123456
+
 User1:
 - email: user1@test.com
 - pass: 123456
+
 User2:
 - email: user2@test.com
 - pass: 123456
