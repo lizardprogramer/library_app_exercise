@@ -1,4 +1,4 @@
-# Library app
+# Library web app
 
 ![Alt text](/public/images/APP1.gif)
 
