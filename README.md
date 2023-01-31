@@ -5,7 +5,7 @@
 
 ## Description:
 
-This web app is imagined as app used in libraries by both users and librarians. It enables quick and efficient book trade. This project was made as an excercise for Laravel Framework programming environment.
+This web app is imagined as app used in libraries by both users and librarians. It enables quick and efficient book trade. This project was made as an excercise for Laravel programming environment.
 
 There are three main roles that can use this app:
 
